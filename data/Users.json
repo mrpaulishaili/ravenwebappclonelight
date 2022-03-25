@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+
+    "name": {
+      "first": "Paul",
+      "middle": "Chukwudi",
+      "last": "Ishaili"
+    },
+
+    "bio": "Software Engineer || Frontend Developer || Tech Writer. Currently developing lead-generating websites and online platforms.",
+
+    "image": "assets/img/events/event.png",
+
+    "username": "mrpaulishaili",
+
+    "wallet": {
+      "currency": "$",
+      "AvailableBalance": 10
+    },
+
+    "social": {
+      "instagram": "https://instagram.com/mrpaulishaili",
+      "facebook": "https://facebook.com/mrpaulishaili",
+      " twitter": "https://twitter.com/@mrpaulishaili",
+      "youtube": "https://youtube.com/user/mrpaulishaili",
+      "website": "https://about.me/mrp"
+    },
+
+    "stat": {
+      "followers": [
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user"
+      ],
+      "following": [
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user",
+        "user"
+      ],
+      "views": "54",
+      "events": ""
+    },
+
+    "Events": [
+      { "eventID": "", "accessType": "" },
+      { "eventID": "", "accessType": "" },
+      { "eventID": "", "accessType": "" }
+    ],
+
+    "Tickets": [
+      { "ticketID": "", "eventID": "" },
+      { "ticketID": "", "eventID": "" }
+    ],
+
+    "messages": [],
+
+    "notification": {
+      "status": true,
+      "count": 3
+    }
+  },
+  {
+    "id": "2",
+
+    "name": {
+      "first": "dd",
+      "middle": "",
+      "last": ""
+    },
+
+    "bio": "",
+
+    "image": "assets/img/events/event.png",
+
+    "username": "",
+
+    "wallet": {
+      "currency": "$",
+      "AvailableBalance": 0
+    },
+
+    "social": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "website": ""
+    },
+
+    "stat": {
+      "followers": "",
+      "following": "",
+      "views": "",
+      "events": ""
+    },
+
+    "Events": [
+      { "eventID": "1", "accessType": "audience" },
+      { "eventID": "2", "accessType": "creator" },
+      { "eventID": "4", "accessType": "audience" },
+      { "eventID": "5", "accessType": "guest" }
+    ],
+
+    "Tickets": [
+      { "ticketID": "3444", "eventID": "1" },
+      { "ticketID": "3455", "eventID": "4" }
+    ]
+  },
+
+  {
+    "id": "3",
+
+    "name": {
+      "first": "",
+      "middle": "",
+      "last": ""
+    },
+
+    "bio": "",
+
+    "image": "assets/img/events/event.png",
+
+    "username": "",
+
+    "wallet": {
+      "currency": "$",
+      "AvailableBalance": 0
+    },
+
+    "social": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "website": ""
+    },
+
+    "stat": {
+      "followers": "",
+      "following": "",
+      "views": "",
+      "events": ""
+    },
+
+    "Events": [
+      { "eventID": "", "accessType": "" },
+      { "eventID": "", "accessType": "" },
+      { "eventID": "", "accessType": "" }
+    ],
+
+    "Tickets": [
+      { "ticketID": "", "eventID": "" },
+      { "ticketID": "", "eventID": "" }
+    ]
+  }
+]

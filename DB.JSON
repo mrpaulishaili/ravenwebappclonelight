@@ -1,0 +1,12 @@
+[
+  {
+    " name": "Event 1",
+    "date": {
+      "month": "march",
+      "day": "22"
+    },
+    "month": "march",
+    "day": "22",
+    "img": "img.png"
+  }
+]
