@@ -4,7 +4,7 @@
     "name": "Design Mentorship",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet, officia quos reprehenderit cupiditate harum ea in provident veritatis ad nihil dolorum corrupti quidem esse, dicta aperiam! Laudantium similique ducimus accusantium repellat aliquid maxime explicabo tenetur ipsum, illum consequuntur itaque atque.",
     "img": "assets/img/events/event.png",
-
+    "isNew": true,
     "creator": {
       "name": "Folashade Rotimi",
       "img": "assets/img/Avatar.png"
@@ -45,7 +45,7 @@
     "name": "House-Party",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet, officia quos reprehenderit cupiditate harum ea in provident veritatis ad nihil dolorum corrupti quidem esse, dicta aperiam! Laudantium similique ducimus accusantium repellat aliquid maxime explicabo tenetur ipsum, illum consequuntur itaque atque.",
     "img": "assets/img/events/event.png",
-
+    "isLive": true,
     "creator": {
       "name": "Hassan Umaru",
       "img": "assets/img/Avatar.png"
