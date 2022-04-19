@@ -4,11 +4,12 @@
     "name": "Design Mentorship",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet, officia quos reprehenderit cupiditate harum ea in provident veritatis ad nihil dolorum corrupti quidem esse, dicta aperiam! Laudantium similique ducimus accusantium repellat aliquid maxime explicabo tenetur ipsum, illum consequuntur itaque atque.",
     "img": "assets/img/events/event.png",
-    "isNew": true,
+
     "creator": {
       "name": "Folashade Rotimi",
       "img": "assets/img/Avatar.png"
     },
+    "isNew": true,
 
     "date": {
       "month": "April",
@@ -16,9 +17,38 @@
     },
 
     "price": "$48",
-    "time": "8:00am",
-
-    "sponsors": {}
+    "reviews": [
+      {
+        "name": "Edward Clark",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Albert Ox",
+        "description": "We absolutely need to get smarter about privacy. Society is creeped out by big tech and big data.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Esiekpe Samuel",
+        "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar. let’s learn so many things so that we never stop learning.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Edward Clark",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Albert Ox",
+        "description": "We absolutely need to get smarter about privacy. Society is creeped out by big tech and big data.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Esiekpe Samuel",
+        "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar. let’s learn so many things so that we never stop learning.",
+        "img": "assets/img/Avatar.png"
+      }
+    ]
   },
   {
     "id": "2",
@@ -38,14 +68,47 @@
     },
 
     "price": "$48",
-    "time": "8:00am"
+    "isDone": true,
+
+    "reviews": [
+      {
+        "name": "Edward Clark",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Albert Ox",
+        "description": "We absolutely need to get smarter about privacy. Society is creeped out by big tech and big data.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Esiekpe Samuel",
+        "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar. let’s learn so many things so that we never stop learning.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Edward Clark",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Albert Ox",
+        "description": "We absolutely need to get smarter about privacy. Society is creeped out by big tech and big data.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Esiekpe Samuel",
+        "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar. let’s learn so many things so that we never stop learning.",
+        "img": "assets/img/Avatar.png"
+      }
+    ]
   },
   {
     "id": "3",
     "name": "House-Party",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet, officia quos reprehenderit cupiditate harum ea in provident veritatis ad nihil dolorum corrupti quidem esse, dicta aperiam! Laudantium similique ducimus accusantium repellat aliquid maxime explicabo tenetur ipsum, illum consequuntur itaque atque.",
     "img": "assets/img/events/event.png",
-    "isLive": true,
+
     "creator": {
       "name": "Hassan Umaru",
       "img": "assets/img/Avatar.png"
@@ -57,8 +120,40 @@
     },
 
     "price": "$48",
-    "time": "8:00am",
-    "ticket_id": "3455"
+    "isDone": true,
+
+    "reviews": [
+      {
+        "name": "Edward Clark",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Albert Ox",
+        "description": "We absolutely need to get smarter about privacy. Society is creeped out by big tech and big data.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Esiekpe Samuel",
+        "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar. let’s learn so many things so that we never stop learning.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Edward Clark",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Albert Ox",
+        "description": "We absolutely need to get smarter about privacy. Society is creeped out by big tech and big data.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Esiekpe Samuel",
+        "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar. let’s learn so many things so that we never stop learning.",
+        "img": "assets/img/Avatar.png"
+      }
+    ]
   },
   {
     "id": "4",
@@ -78,7 +173,40 @@
     },
 
     "price": "$48",
-    "time": "8:00am"
+    "isDone": true,
+
+    "reviews": [
+      {
+        "name": "Edward Clark",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Albert Ox",
+        "description": "We absolutely need to get smarter about privacy. Society is creeped out by big tech and big data.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Esiekpe Samuel",
+        "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar. let’s learn so many things so that we never stop learning.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Edward Clark",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Albert Ox",
+        "description": "We absolutely need to get smarter about privacy. Society is creeped out by big tech and big data.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Esiekpe Samuel",
+        "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar. let’s learn so many things so that we never stop learning.",
+        "img": "assets/img/Avatar.png"
+      }
+    ]
   },
   {
     "id": "5",
@@ -98,28 +226,37 @@
     },
 
     "price": "$48",
-    "time": "8:00am",
-    "ticket_id": "3452"
-  },
-  {
-    "id": "6",
-    "name": "Biases in Learning Programming",
-    "description": "The concept of learning programing has either been overstretched or undervalued to you. Know the biases that is hindering you from understanding programming in this 36 hours course with paulishaili and moving to your next level in tech career.",
-    "img": "assets/img/events/learningProgramming.jpg",
-
-    "creator": {
-      "name": "Paul Ishaili",
-      "img": "assets/img/creators/paulishaili.jpg",
-      "isVerified": true
-    },
-
-    "date": {
-      "month": "April",
-      "day": "13"
-    },
-
-    "price": "$198",
-    "time": "06:00pm",
-    "ticket_id": "3452"
+    "reviews": [
+      {
+        "name": "Edward Clark",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Albert Ox",
+        "description": "We absolutely need to get smarter about privacy. Society is creeped out by big tech and big data.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Esiekpe Samuel",
+        "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar. let’s learn so many things so that we never stop learning.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Edward Clark",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est sit accusantium reiciendis dolor nam neque asperiores ut tempora amet.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Albert Ox",
+        "description": "We absolutely need to get smarter about privacy. Society is creeped out by big tech and big data.",
+        "img": "assets/img/Avatar.png"
+      },
+      {
+        "name": "Esiekpe Samuel",
+        "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar. let’s learn so many things so that we never stop learning.",
+        "img": "assets/img/Avatar.png"
+      }
+    ]
   }
 ]
